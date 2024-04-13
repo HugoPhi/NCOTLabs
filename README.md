@@ -7,6 +7,8 @@ Parts already finished:
     1. Solution of Linear Equations System. 
     2. Solution of Nolinear Equations. 
 - Lab2    
-    1. To be done ...
+    1. Interpolation. (doing)
+- Lab3 
+    1. To be done ... 
 
 
