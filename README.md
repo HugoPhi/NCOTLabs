@@ -17,8 +17,8 @@ Source code for labs.
         - Lagrange interpolation
         - Newtonian interpolation
         - cubic spline interpolation     
-        - Aitken interpolation*  (TODO)
-        - Hermit interpolation*  (TODO)
+        - Aitken interpolation  
+        - Hermit interpolation  
     - Higher Dimensional Interpolation Methods. (TODO)
         - 2D 
         - 3D 
